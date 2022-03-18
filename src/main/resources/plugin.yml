@@ -1,0 +1,7 @@
+name: Learning
+version: '${project.version}'
+main: me.rockyers.learning.Learning
+api-version: 1.16
+load: STARTUP
+authors: [ Rockyers, Huey ]
+description: Teaching
